@@ -1,3 +1,7 @@
-baseURL = "https://iwannatellu.github.io/"
+baseURL = "https://iwannatellu.huangyubin.xyz/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "I wanna tell you"
+theme = "elephants"
+
+[params]
+    sitename = "I wanna tell you"
